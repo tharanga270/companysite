@@ -410,7 +410,8 @@ p.comment-wrote-by {
 /*singup section*/
 .singup-section {
   position: relative;
-  min-height: 990px;
+  /* min-height: 990px !important; */
+  min-height: 1200px;
 }
 
 .singup-image-cont {
@@ -442,7 +443,7 @@ p.comment-wrote-by {
   border-radius: 20px !important;
   border: 0 !important;
   font-weight: 600 !important;
-  color: black !important; 
+  color: black !important;
   padding-top: 10px !important;
   padding-bottom: 10px !important;
 }
@@ -451,3 +452,23 @@ p.comment-wrote-by {
   color: white !important;
 }
 /*singup section*/
+
+/*footer*/
+footer {
+  background-color: #333333;
+  height: 250px;
+}
+.cmnp1 {
+  color: white;
+}
+.last-ft-p {
+  font-size: 0.8rem;
+}
+.last-ft-p a {
+  color: #bbd1f6;
+}
+.last-ft-p a:hover {
+  text-decoration: none;
+  color: #b9b9b9;
+}
+/*footer*/
