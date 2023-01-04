@@ -75,3 +75,16 @@
   color: #242c53;
 }
 /*photo-galary-what-we-do*/
+
+/*architecture-text-cont*/
+.architecture-text-cont {
+  margin-top: 70px;
+}
+.architecture-text-cont h1 {
+  font-weight: 600;
+  font-size: 3rem;
+}
+.architecture-text-cont p {
+  font-weight: 400;
+}
+/*architecture-text-cont*/

@@ -1,4 +1,5 @@
 import "./App.css";
+import ArchitectureTextCont from "./components/ArchitectureTextCont";
 import Header from "./components/Header";
 import PhotoGalaryWhatWeDo from "./components/PhotoGalaryWhatWeDo";
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <>
       <Header />
       <PhotoGalaryWhatWeDo />
+      <ArchitectureTextCont />
     </>
   );
 }
