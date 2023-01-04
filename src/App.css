@@ -103,11 +103,7 @@
   /*height: 238px;*/
   /*border: 1px solid red;*/
 }
-/* .service-logo-container {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-} */
+
 .service-img-cmn {
   width: 65px !important;
   background-color: #f7ce21;
@@ -155,3 +151,47 @@
   border-radius: 20px;
 }
 /*our service*/
+
+/*who are the best*/
+.who-are-the-best {
+  width: 100%;
+  min-height: 690px;
+  position: relative;
+}
+.who-best-image {
+  width: 652px;
+  height: 565px;
+  border-radius: 20px !important;
+  position: absolute;
+  z-index: 5;
+  margin-left: 200px;
+  margin-top: -200px;
+}
+.who-best-yellow-right {
+  width: 60%;
+  height: 480px;
+  background-color: #f7ce21;
+  position: absolute;
+  right: 0;
+  z-index: 4;
+}
+.who-are-the-best-cont {
+  background-color: white;
+  width: 609px;
+  position: absolute;
+  z-index: 6;
+  left: 680px;
+  margin-top: 15%;
+  border-radius: 20px;
+  padding: 40px;
+}
+.who-best-title {
+  font-weight: 600;
+}
+.who-best-p {
+  line-height: 30px;
+}
+.freepik {
+  color: black;
+}
+/*who are the best*/

@@ -109,20 +109,3 @@ function OurService() {
 
 export default OurService;
 
-/* <div class="row aboutus-row">
-    <div class="col-md-6">
-        <p class="cmn-p-text">ABOUT US</p>
-        <h1 class="cmn-p-text">We work at all scales and in all sectors.</h1>
-        <p class="">We create transformative cultural, corporate, residential and other spaces that work in
-                    synchronicity with their surroundings.</p>
-    </div>
-    <div class="col-md-6">
-        <h4>The future of how we live, work and play</h4>
-        <p class="pt-3 sample-p">Sample text. Click to select the text box. Click again or<br>double click to
-                    start editing the text.</p>
-        <h4>Look toward the future</h4>
-        <p class="pt-3 sample-p">Sample text. Click to select the text box. Click again or<br>double click to
-                    start editing the text.</p>
-        <button>learn more</button>
-    </div>
-</div> */
