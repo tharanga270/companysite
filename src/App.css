@@ -1,38 +1,77 @@
-.App {
-  text-align: center;
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/*photo-galary-what-we-do*/
+.photo-galary-what-we-do {
+  position: relative;
+  min-height: 1200px;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.yellow-right {
+  width: 50%;
+  height: 1190px;
+  background-color: #f7ce21;
+  position: absolute;
+  right: 0;
+  z-index: 1;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.glary-image1 {
+  width: 567px;
+  height: 344px;
+  margin-top: 70px;
+  margin-left: 260px;
+  z-index: 3;
+  position: absolute;
+  border-radius: 20px !important;
+}
+.glary-image2 {
+  width: 526px;
+  height: 318px;
+  margin-top: 300px;
+  margin-left: 550px;
+  position: absolute;
+  z-index: 2;
+  border-radius: 20px;
+}
+.glary-image3 {
+  width: 402px;
+  height: 299px;
+  margin-top: 550px;
+  margin-left: 200px;
+  border-radius: 20px;
+  position: absolute;
+  z-index: 3;
+}
+.what-we-do {
+  background-color: white;
+  width: 490px;
+  border-radius: 20px;
+  padding: 40px;
+  margin-top: 730px;
+  margin-left: 500px;
+  position: absolute;
+  z-index: 4;
+}
+.cmn-what-text {
+  font-weight: 600;
+}
+.what-we-do a {
+  color: black;
+}
+.cmn-btns {
+  border: none;
+  font-weight: 600;
+  background-color: #242c53;
   color: white;
+  padding: 10px 22px;
+  border-radius: 20px;
 }
-
-.App-link {
-  color: #61dafb;
+.cmn-btns:hover {
+  background-color: #f7ce21;
+  color: #242c53;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+/*photo-galary-what-we-do*/
