@@ -1,6 +1,7 @@
 import "./App.css";
 import ArchitectureTextCont from "./components/ArchitectureTextCont";
 import Header from "./components/Header";
+import OurService from "./components/OurService";
 import PhotoGalaryWhatWeDo from "./components/PhotoGalaryWhatWeDo";
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Header />
       <PhotoGalaryWhatWeDo />
       <ArchitectureTextCont />
+      <OurService />
     </>
   );
 }

@@ -88,3 +88,70 @@
   font-weight: 400;
 }
 /*architecture-text-cont*/
+
+/*our service*/
+.our-service {
+  width: 100%;
+  background-color: #242c53;
+  min-height: 900px;
+  margin-top: 150px;
+}
+.service-card {
+  margin-top: -90px;
+  border: none !important;
+  border-radius: 0 !important;
+  /*height: 238px;*/
+  /*border: 1px solid red;*/
+}
+/* .service-logo-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+} */
+.service-img-cmn {
+  width: 65px !important;
+  background-color: #f7ce21;
+  padding: 10px;
+  border-radius: 100% !important;
+  /* justify-content: center !important; */
+}
+.service-card h5 {
+  font-weight: 600;
+}
+.service-card p {
+  line-height: 1.4;
+  font-size: 0.9375rem;
+  font-style: italic;
+  margin-bottom: 30px !important;
+}
+.aboutus-row {
+  margin-top: 130px !important;
+  color: white;
+}
+.cmn-p-text {
+  font-weight: 600;
+}
+.aboutus-row h1 {
+  width: 90%;
+  font-size: 3rem;
+}
+.aboutus-row p:last-of-type {
+  font-weight: 400;
+  font-size: 1.1rem;
+}
+.aboutus-row h4 {
+  font-weight: 600;
+  width: 90%;
+}
+.sample-p {
+  font-size: 1.1rem;
+}
+.aboutus-row button {
+  border: none;
+  font-weight: 600;
+  background-color: #f7ce21;
+  color: black;
+  padding: 10px 22px;
+  border-radius: 20px;
+}
+/*our service*/
