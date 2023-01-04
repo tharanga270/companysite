@@ -1,4 +1,5 @@
 import "./App.css";
+import AboutCompany from "./components/AboutCompany";
 import ArchitectureTextCont from "./components/ArchitectureTextCont";
 import Header from "./components/Header";
 import OurService from "./components/OurService";
@@ -12,6 +13,7 @@ function App() {
       <ArchitectureTextCont />
       <OurService />
       <WhoAreTheBest />
+      <AboutCompany />
     </>
   );
 }

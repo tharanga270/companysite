@@ -195,3 +195,36 @@
   color: black;
 }
 /*who are the best*/
+
+/*about company*/
+.about-company {
+  position: relative;
+  min-height: 650px;
+}
+.colm5 {
+  background-color: #242c53;
+  height: 600px;
+}
+.colm7 {
+  background-color: #f7ce21;
+}
+.about-company img {
+  width: 448px;
+  height: 448px;
+  border-radius: 20px;
+  position: absolute;
+  left: 45%;
+  margin-top: 40px;
+}
+.cmn-company-content {
+  padding-left: 30px;
+}
+.cmn-company-content h1 {
+  padding-top: 40px;
+  font-weight: 600;
+}
+.cmn-company-content p {
+  line-height: 45px;
+  font-weight: 400;
+}
+/*about company*/
