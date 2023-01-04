@@ -7,6 +7,7 @@ import FullService from "./components/FullService";
 import Header from "./components/Header";
 import OurService from "./components/OurService";
 import PhotoGalaryWhatWeDo from "./components/PhotoGalaryWhatWeDo";
+import Singup from "./components/Singup";
 import WhoAreTheBest from "./components/WhoAreTheBest";
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <EmbeddedArchitecture />
       <Comment />
       <FullService />
+      <Singup />
     </>
   );
 }

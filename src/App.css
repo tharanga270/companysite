@@ -406,3 +406,48 @@ p.comment-wrote-by {
   font-weight: 600;
 }
 /*full service section*/
+
+/*singup section*/
+.singup-section {
+  position: relative;
+  min-height: 990px;
+}
+
+.singup-image-cont {
+  background: url(./images/singupimg.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 550px;
+}
+.colsing-md8 {
+  /*border: 1px solid red;*/
+  position: absolute;
+  margin-top: -220px;
+  background-color: white;
+  border-radius: 20px;
+  padding: 40px;
+}
+.singup-offer-title {
+  font-size: 1.875rem;
+  font-weight: 600;
+  color: black;
+}
+.singup-section input,
+.singup-section textarea {
+  background-color: #e5e5e5;
+  border-radius: 20px;
+}
+.singup-button {
+  background-color: #f7ce21 !important;
+  border-radius: 20px !important;
+  border: 0 !important;
+  font-weight: 600 !important;
+  color: black !important; 
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+}
+.singup-button:hover {
+  background-color: #1a1a1a !important;
+  color: white !important;
+}
+/*singup section*/

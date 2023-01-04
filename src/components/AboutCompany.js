@@ -34,7 +34,7 @@ function AboutCompany() {
                         Freepik
                       </a>
                     </p>
-                    <button class="cmn-btns">read more</button>
+                    <button className="cmn-btns">read more</button>
                   </div>
                 </Col>
               </Row>
