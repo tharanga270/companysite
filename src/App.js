@@ -1,6 +1,7 @@
 import "./App.css";
 import AboutCompany from "./components/AboutCompany";
 import ArchitectureTextCont from "./components/ArchitectureTextCont";
+import EmbeddedArchitecture from "./components/EmbeddedArchitecture";
 import Header from "./components/Header";
 import OurService from "./components/OurService";
 import PhotoGalaryWhatWeDo from "./components/PhotoGalaryWhatWeDo";
@@ -14,6 +15,7 @@ function App() {
       <OurService />
       <WhoAreTheBest />
       <AboutCompany />
+      <EmbeddedArchitecture />
     </>
   );
 }
