@@ -75,9 +75,6 @@
   /*comment section*/
 
   /*full service section*/
-  .full-serv-left-yellow {
-    /* top: -40px; */
-  }
   .emb-full-serv-image2 {
     left: 460px;
     top: 35px;
@@ -97,6 +94,109 @@
 }
 
 @media only screen and (max-width: 1024px) {
+  /*photo-galary-what-we-do*/
+  .glary-image1 {
+    margin-left: 80px;
+  }
+  .glary-image2 {
+    margin-top: 325px;
+    margin-left: 320px;
+  }
+  .glary-image3 {
+    margin-top: 580px;
+    margin-left: 100px;
+  }
+  .what-we-do {
+    margin-top: 750px;
+    margin-left: 275px;
+  }
+  /*photo-galary-what-we-do*/
+
+  /*who are the best*/
+  .who-are-the-best {
+    min-height: 710px;
+  }
+  .who-are-the-best-cont {
+    left: 375px;
+    margin-top: 20%;
+  }
+  .who-best-yellow-right {
+    width: 80%;
+  }
+  /*who are the best*/
+
+  /*about company*/
+  .about-company img {
+    left: 12%;
+    margin-top: 95px;
+  }
+  .cmn-company-content {
+    margin-top: 60px;
+    padding-left: 10px;
+  }
+  /*about company*/
+
+  /*embedded architecture content*/
+  .embed-image1 {
+    top: 120px;
+    left: 35px;
+  }
+  .embed-image2 {
+    width: 540px;
+    left: 435px;
+  }
+  .embed-image3 {
+    top: 358px;
+    left: 105px;
+  }
+  .embed-yellow-cont {
+    height: 490px;
+    z-index: 0;
+    top: 354px;
+  }
+  .embed-text-cont {
+    left: 575px;
+    margin-top: -15px;
+  }
+  /*embedded architecture content*/
+
+  /*comment section*/
+  .comment-imaga1 {
+    left: 100px;
+    top: -28%;
+  }
+  .comment-div {
+    left: 33px;
+    margin-top: -140px;
+  }
+  .comment-right-cont {
+    left: 625px;
+  }
+  /*comment section*/
+
+  /*full service section*/
+  .full-serv-img1 {
+    left: 100px;
+    top: 265px;
+  }
+  .emb-full-serv-image2 {
+    left: 290px;
+  }
+  .full-sev-emb1 {
+    width: 260px;
+    height: 243px;
+    left: 700px;
+  }
+  .full-serv-cont {
+    left: 100px;
+  }
+  /*full service section*/
+
+  /*singup section*/
+  .colsing-md8 {
+    width: 92% !important;
+  }
+  /*singup section*/
 }
 
 @media only screen and (max-width: 992px) {

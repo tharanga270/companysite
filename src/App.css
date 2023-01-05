@@ -183,6 +183,7 @@
   margin-top: 15%;
   border-radius: 20px;
   padding: 40px;
+  border: 1px solid red;
 }
 .who-best-title {
   font-weight: 600;
@@ -278,7 +279,7 @@
   z-index: 10;
   left: 705px;
   margin-top: -100px;
-  /*border: 1px solid red;*/
+  border: 1px solid red;
 }
 .emb-icon {
   font-size: 3.7rem;
@@ -396,7 +397,7 @@ p.comment-wrote-by {
   position: absolute;
   left: 275px;
   top: 790px;
-  /* border: 1px solid red; */
+  border: 1px solid red;
 }
 .full-serv-cont h6 {
   font-weight: 600;
