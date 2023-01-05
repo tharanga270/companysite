@@ -93,7 +93,7 @@
   /*full service section*/
 }
 
-@media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 1023px) {
   /*photo-galary-what-we-do*/
   .glary-image1 {
     margin-left: 80px;
@@ -199,7 +199,7 @@
   /*singup section*/
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 991px) {
   /*our service*/
   .aboutus-row {
     padding-left: 20px;
@@ -220,11 +220,35 @@
   /*comment section*/
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 767px) {
+  /*photo-galary-what-we-do*/
+  .glary-image1 {
+    width: 383px;
+    height: 255px;
+    margin-left: 175px;
+  }
+  .glary-image2 {
+    width: 338px;
+    height: 220px;
+    margin-left: 290px;
+    margin-top: 295px;
+  }
+  .glary-image3 {
+    width: 245px;
+    height: 182px;
+    margin-left: 135px;
+    margin-top: 475px;
+  }
+  .what-we-do {
+    width: 405px;
+    height: 385px;
+    margin-top: 615px;
+  }
+  /*photo-galary-what-we-do*/
 }
 
-@media only screen and (max-width: 576px) {
+@media only screen and (max-width: 575px) {
 }
 
-@media only screen and (max-width: 425px) {
+@media only screen and (max-width: 424px) {
 }
