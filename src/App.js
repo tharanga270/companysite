@@ -1,4 +1,5 @@
 import "./App.css";
+import "./media.css";
 import AboutCompany from "./components/AboutCompany";
 import ArchitectureTextCont from "./components/ArchitectureTextCont";
 import Comment from "./components/Comment";

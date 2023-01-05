@@ -100,8 +100,7 @@
   margin-top: -90px;
   border: none !important;
   border-radius: 0 !important;
-  /*height: 238px;*/
-  /*border: 1px solid red;*/
+  border: 1px solid red !important;
 }
 
 .service-img-cmn {
@@ -321,7 +320,7 @@
   position: absolute;
   left: 810px;
   padding: 40px;
-  /*border: 1px solid red;*/
+  border: 1px solid red;
   margin-top: -365px;
 }
 .comment-right-cont h1 {
@@ -410,8 +409,8 @@ p.comment-wrote-by {
 /*singup section*/
 .singup-section {
   position: relative;
-  /* min-height: 990px !important; */
-  min-height: 1200px;
+  min-height: 990px !important;
+  /* min-height: 1200px; */
 }
 
 .singup-image-cont {
@@ -421,9 +420,9 @@ p.comment-wrote-by {
   height: 550px;
 }
 .colsing-md8 {
-  /*border: 1px solid red;*/
+  /* border: 1px solid red; */
   position: absolute;
-  margin-top: -220px;
+  margin-top: -220px !important;
   background-color: white;
   border-radius: 20px;
   padding: 40px;

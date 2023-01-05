@@ -19,9 +19,3 @@ function Footer() {
 }
 
 export default Footer;
-
-/* <footer class="text-center">
-    <p class="cmnp1 mb-0 pt-5">Sample text. Click to select the text box. Click again or double</p>
-    <p class="cmnp1">click to start editing the text.</p>
-    <p class="last-ft-p mt-5"><a href="#">Website Templates</a> <span class="text-white">created with</span> <a href="#">Website Builder Software.</a></p>
-</footer> */

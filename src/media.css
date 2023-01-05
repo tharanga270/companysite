@@ -1,0 +1,115 @@
+@media only screen and (max-width: 1200px) {
+  /*photo-galary-what-we-do*/
+  .glary-image1 {
+    margin-left: 150px;
+  }
+  .glary-image2 {
+    margin-left: 460px;
+  }
+  .glary-image3 {
+    margin-left: 130px;
+  }
+  .what-we-do {
+    margin-left: 430px;
+  }
+  /*photo-galary-what-we-do*/
+
+  /*who are the best*/
+  .who-best-image {
+    margin-left: 100px;
+  }
+  .who-are-the-best-cont {
+    left: 570px;
+  }
+  /*who are the best*/
+
+  /*about company*/
+  .cmn-company-content h1 {
+    font-size: 2.1rem;
+  }
+  .cmn-company-content {
+    padding-left: 80px;
+  }
+  .cmn-company-content p {
+    line-height: 40px;
+    font-weight: 500;
+    max-width: 370px;
+    text-align: justify;
+  }
+  /*about company*/
+
+  /*embedded architecture content*/
+  .embed-image1 {
+    top: 200px;
+    left: 27px;
+  }
+  .embed-image2 {
+    left: 502px;
+  }
+  .embed-image3 {
+    top: 358px;
+    left: 155px;
+  }
+  .embed-text-cont {
+    width: 40%;
+    left: 635px;
+  }
+  /*embedded architecture content*/
+
+  /*comment section*/
+  .comment-imaga1 {
+    left: 220px;
+  }
+  .comment-div {
+    left: 22px;
+    margin-top: -180px;
+  }
+  .comment-right-cont {
+    width: 36%;
+    left: 745px;
+    margin-top: -365px;
+  }
+  .comment-right-cont h1 {
+    font-size: 2.25rem;
+  }
+  /*comment section*/
+
+  /*full service section*/
+  .full-serv-left-yellow {
+    /* top: -40px; */
+  }
+  .emb-full-serv-image2 {
+    left: 460px;
+    top: 35px;
+  }
+  .full-serv-img1 {
+    left: 200px;
+    top: 350px;
+  }
+  .full-sev-emb1 {
+    left: 800px;
+  }
+  .full-serv-cont {
+    left: 200px;
+    /* border: 1px solid red; */
+  }
+  /*full service section*/
+}
+
+@media only screen and (max-width: 1024px) {
+}
+
+@media only screen and (max-width: 992px) {
+}
+
+@media only screen and (max-width: 768px) {
+}
+
+@media only screen and (max-width: 768px) {
+}
+
+@media only screen and (max-width: 576px) {
+}
+
+@media only screen and (max-width: 425px) {
+}
