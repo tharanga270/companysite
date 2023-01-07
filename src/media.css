@@ -350,6 +350,36 @@
     width: 375px;
   }
   /*comment section*/
+
+  /*full service section*/
+  .full-service-sec {
+    min-height: 1435px;
+  }
+  .emb-full-serv-image2 {
+    top: 60px;
+    left: 170px;
+    width: 477px;
+    height: 336px;
+  }
+  .full-serv-img1 {
+    left: 100px;
+    top: 340px;
+    width: 419px;
+    height: 306px;
+  }
+  .full-sev-emb1 {
+    width: 229px;
+    height: 209px;
+    top: 680px;
+    left: 415px;
+  }
+  .full-serv-cont {
+    top: 925px;
+  }
+  .full-serv-left-yellow {
+    height: 1435px;
+  }
+  /*full service section*/
 }
 
 @media only screen and (max-width: 575px) {
