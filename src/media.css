@@ -304,7 +304,7 @@
 
   /*embedded architecture content*/
   .emb-arch-content {
-    min-height: 1800px;
+    min-height: 2000px;
   }
   .embed-image1 {
     top: 270px;
@@ -325,6 +325,31 @@
     margin-top: 645px;
   }
   /*embedded architecture content*/
+
+  /*comment section*/
+  .comment-sec {
+    min-height: 560px;
+  }
+  .comment-imaga1 {
+    left: 170px;
+    top: -28%;
+    width: 500px;
+    height: 580px;
+  }
+  .comment-right-cont {
+    left: 160px;
+    margin-top: -790px;
+    width: 65%;
+  }
+  .comment-right-cont h1 {
+    font-size: 1.875rem;
+  }
+  .comment-div {
+    left: 110px;
+    margin-top: -160px;
+    width: 375px;
+  }
+  /*comment section*/
 }
 
 @media only screen and (max-width: 575px) {
