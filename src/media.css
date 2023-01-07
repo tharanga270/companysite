@@ -222,6 +222,9 @@
 
 @media only screen and (max-width: 767px) {
   /*photo-galary-what-we-do*/
+  .photo-galary-what-we-do {
+    min-height: 1030px;
+  }
   .glary-image1 {
     width: 383px;
     height: 255px;
@@ -244,7 +247,40 @@
     height: 385px;
     margin-top: 615px;
   }
+  .yellow-right {
+    height: 1040px;
+  }
   /*photo-galary-what-we-do*/
+
+  /*architecture-text-cont*/
+  .architecture-text-cont h1 {
+    font-size: 1.875rem;
+  }
+  /*architecture-text-cont*/
+
+  /*our service*/
+  .our-service {
+    height: 1300px;
+  }
+  .col6-cmn {
+    height: 235px;
+  }
+  .aboutus-row {
+    margin-top: 0 !important;
+  }
+  /*our service*/
+
+  /*who are the best*/
+  .who-best-image {
+    width: 490px;
+    height: 345px;
+    margin-top: -80px;
+  }
+  .who-are-the-best-cont {
+    width: 435px;
+    left: 220px;
+  }
+  /*who are the best*/
 }
 
 @media only screen and (max-width: 575px) {
