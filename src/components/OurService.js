@@ -11,7 +11,7 @@ function OurService() {
     <>
       <section className="our-service">
         <Container>
-          <Row>
+          <Row className="service-card-row">
             <Col md={3} sm={6} className="col-architecture col6-cmn">
               <Card className="service-card service-height-set">
                 <Card.Img className="service-img-cmn" src={servicelogo1} />
@@ -108,4 +108,3 @@ function OurService() {
 }
 
 export default OurService;
-

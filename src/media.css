@@ -420,7 +420,27 @@
   .arc-text-container {
     width: 65% !important;
   }
+
   /*architecture-text-cont*/
+
+  /*our service*/
+  .our-service {
+    margin-top: 20px;
+  }
+  .col6-cmn {
+    width: 69% !important;
+    height: 213px;
+  }
+  .service-card {
+    margin-top: 0;
+  }
+  .service-card-row {
+    justify-content: center !important;
+  }
+  .aboutus-row {
+    margin-top: 110px !important;
+  }
+  /*our service*/
 }
 
 @media only screen and (max-width: 424px) {
