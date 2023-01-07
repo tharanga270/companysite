@@ -7,7 +7,7 @@ function ArchitectureTextCont() {
   return (
     <>
       <section className="architecture-text-cont">
-        <Container>
+        <Container className="arc-text-container">
           <Row>
             <Col className="text-center">
               <h1>Architecture & Interior Design</h1>

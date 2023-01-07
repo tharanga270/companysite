@@ -383,6 +383,44 @@
 }
 
 @media only screen and (max-width: 575px) {
+  /*photo-galary-what-we-do*/
+  .glary-image1 {
+    width: 292px;
+    height: 195px;
+    margin-top: 57px;
+    margin-left: 115px;
+  }
+  .glary-image2 {
+    width: 273px;
+    height: 222px;
+    margin-left: 180px;
+    margin-top: 212px;
+  }
+  .glary-image3 {
+    width: 228px;
+    height: 162px;
+    margin-left: 115px;
+    margin-top: 390px;
+  }
+  .what-we-do {
+    width: 315px;
+    height: 415px;
+    margin-top: 515px;
+    margin-left: 175px;
+  }
+  .yellow-right {
+    height: 990px;
+  }
+  /*photo-galary-what-we-do*/
+
+  /*architecture-text-cont*/
+  .architecture-text-cont {
+    margin-top: 20px;
+  }
+  .arc-text-container {
+    width: 65% !important;
+  }
+  /*architecture-text-cont*/
 }
 
 @media only screen and (max-width: 424px) {
