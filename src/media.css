@@ -426,6 +426,7 @@
   /*our service*/
   .our-service {
     margin-top: 20px;
+    height: 1860px;
   }
   .col6-cmn {
     width: 69% !important;
@@ -439,7 +440,25 @@
   }
   .aboutus-row {
     margin-top: 110px !important;
+    justify-content: center;
   }
+  .aboutus-row h1 {
+    font-size: 2.25rem;
+  }
+  .aboutus-row p:last-of-type {
+    font-size: 1.125rem;
+  }
+  .aboutus-row h4 {
+    font-weight: 700;
+    font-size: 1.5rem;
+  }
+  /* .sample-p {
+    font-size: 1.125rem;
+  } */
+  .cmn-col-6 {
+    width: 68% !important;
+  }
+
   /*our service*/
 }
 

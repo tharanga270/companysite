@@ -74,7 +74,7 @@ function OurService() {
           </Row>
 
           <Row className="aboutus-row">
-            <Col md={6}>
+            <Col md={6} className="cmn-col-6">
               <p className="cmn-p-text">ABOUT US</p>
               <h1 className="cmn-p-text">
                 We work at all scales and in all sectors.
@@ -85,7 +85,7 @@ function OurService() {
               </p>
             </Col>
 
-            <Col md={6}>
+            <Col md={6} className="cmn-col-6">
               <h4>The future of how we live, work and play</h4>
               <p className="pt-3 sample-p">
                 Sample text. Click to select the text box. Click again or
