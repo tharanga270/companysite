@@ -452,14 +452,32 @@
     font-weight: 700;
     font-size: 1.5rem;
   }
-  /* .sample-p {
-    font-size: 1.125rem;
-  } */
   .cmn-col-6 {
     width: 68% !important;
   }
-
   /*our service*/
+
+  /*who are the best*/
+  .who-are-the-best {
+    min-height: 650px;
+  }
+  .who-best-image {
+    width: 305px;
+    height: 237px;
+  }
+  .who-best-title {
+    font-size: 1.5rem;
+  }
+  .who-are-the-best-cont {
+    width: 307px;
+    left: 130px;
+    padding: 20px;
+  }
+  .who-best-yellow-right {
+    width: 65%;
+    height: 370px;
+  }
+  /*who are the best*/
 }
 
 @media only screen and (max-width: 424px) {
