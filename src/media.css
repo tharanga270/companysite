@@ -477,7 +477,30 @@
     width: 65%;
     height: 370px;
   }
+  .who-best-p {
+    font-size: 1.125rem;
+  }
   /*who are the best*/
+
+  /*about company*/
+  .about-company img {
+    margin-top: 75px;
+    width: 340px;
+    height: 340px;
+  }
+  .colm5 {
+    max-height: 280px;
+  }
+  .cmn-company-content {
+    padding-left: 100px;
+  }
+  .cmn-company-content h1 {
+    font-size: 1.5rem;
+  }
+  .cmn-company-content p {
+    max-width: 340px;
+  }
+  /*about company*/
 }
 
 @media only screen and (max-width: 424px) {
