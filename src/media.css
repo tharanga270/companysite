@@ -595,5 +595,22 @@
   /*full service section*/
 }
 
-@media only screen and (max-width: 424px) {
+@media only screen and (max-width: 425px) {
+  /*photo-galary-what-we-do*/
+  .glary-image1 {
+    margin-left: 40px;
+  }
+  .glary-image2 {
+    margin-left: 115px;
+    margin-top: 212px;
+  }
+  .glary-image3 {
+    margin-left: 40px;
+  }
+  .what-we-do {
+    width: 290px;
+    padding: 40px 20px;
+    margin-left: 100px;
+  }
+  /*photo-galary-what-we-do*/
 }
