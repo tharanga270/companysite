@@ -55,7 +55,7 @@
   margin-left: 500px;
   position: absolute;
   z-index: 4;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 .cmn-what-text {
   font-weight: 600;
@@ -101,7 +101,7 @@
   margin-top: -90px;
   border: none !important;
   border-radius: 0 !important;
-  border: 1px solid red !important;
+  /* border: 1px solid red !important; */
 }
 
 .service-img-cmn {
@@ -184,7 +184,7 @@
   margin-top: 15%;
   border-radius: 20px;
   padding: 40px;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 .who-best-title {
   font-weight: 600;
@@ -280,7 +280,7 @@
   z-index: 10;
   left: 705px;
   margin-top: -100px;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 .emb-icon {
   font-size: 3.7rem;
@@ -322,7 +322,7 @@
   position: absolute;
   left: 810px;
   padding: 40px;
-  border: 1px solid red;
+  /* border: 1px solid red; */
   margin-top: -365px;
 }
 .comment-right-cont h1 {
@@ -398,7 +398,7 @@ p.comment-wrote-by {
   position: absolute;
   left: 275px;
   top: 790px;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 .full-serv-cont h6 {
   font-weight: 600;
