@@ -628,5 +628,11 @@
   /*our service*/
 
   /*who are the best*/
+  .who-best-image {
+    margin-left: 35px;
+  }
+  .who-are-the-best-cont {
+    left: 65px;
+  }
   /*who are the best*/
 }
