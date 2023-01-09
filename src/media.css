@@ -501,6 +501,33 @@
     max-width: 340px;
   }
   /*about company*/
+
+  /*embedded architecture content*/
+  .embed-image1 {
+    top: 200px;
+    width: 206px;
+    height: 206px;
+  }
+  .embed-image2 {
+    width: 290px;
+    height: 209px;
+    left: 160px;
+  }
+  .embed-image3 {
+    top: 480px;
+    left: 110px;
+    width: 340px;
+    height: 340px;
+  }
+  .embed-yellow-cont {
+    height: 415px;
+  }
+  .embed-text-cont {
+    width: 70%;
+    left: 70px;
+    margin-top: 470px;
+  }
+  /*embedded architecture content*/
 }
 
 @media only screen and (max-width: 424px) {
