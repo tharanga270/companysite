@@ -664,4 +664,19 @@
     left: 25px;
   }
   /*embedded architecture content*/
+
+  /*comment section*/
+  .comment-right-cont {
+    left: 45px;
+    width: 86%;
+    padding: 20px;
+  }
+  .comment-imaga1 {
+    left: 65px;
+    top: -45%;
+  }
+  .comment-div {
+    left: 40px;
+  }
+  /*comment section*/
 }
