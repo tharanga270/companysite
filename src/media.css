@@ -613,4 +613,20 @@
     margin-left: 100px;
   }
   /*photo-galary-what-we-do*/
+
+  /*our service*/
+  .col6-cmn {
+    width: 88% !important;
+    height: 213px;
+  }
+  .cmn-col-6 {
+    width: 92% !important;
+  }
+  .aboutus-row p:last-of-type {
+    font-size: 1.25rem;
+  }
+  /*our service*/
+
+  /*who are the best*/
+  /*who are the best*/
 }
