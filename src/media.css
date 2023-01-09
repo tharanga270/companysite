@@ -503,6 +503,10 @@
   /*about company*/
 
   /*embedded architecture content*/
+  .emb-arch-content {
+    min-height: 2020px;
+  }
+
   .embed-image1 {
     top: 200px;
     width: 206px;
@@ -528,6 +532,31 @@
     margin-top: 470px;
   }
   /*embedded architecture content*/
+
+  /*comment section*/
+  .comment-right-cont {
+    left: 90px;
+    margin-top: -920px;
+    width: 67%;
+  }
+  .comment-imaga1 {
+    left: 140px;
+    top: -38%;
+    width: 311px;
+    height: 415px;
+  }
+  .comment-div {
+    left: 110px;
+    margin-top: -220px;
+    width: 302px;
+  }
+  p.comment-para {
+    font-size: 1.25rem;
+  }
+  /*comment section*/
+
+  /*full service section*/
+  /*full service section*/
 }
 
 @media only screen and (max-width: 424px) {
