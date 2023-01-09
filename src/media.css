@@ -200,10 +200,18 @@
 }
 
 @media only screen and (max-width: 991px) {
+  /*architecture-text-cont*/
+  .architecture-text-cont h1 {
+    font-size: 2.25rem;
+  }
+  /*architecture-text-cont*/
   /*our service*/
   .aboutus-row {
     padding-left: 20px;
     padding-right: 20px;
+  }
+  .our-service-cont {
+    max-width: 900px !important;
   }
   /*our service*/
 
@@ -260,13 +268,20 @@
 
   /*our service*/
   .our-service {
-    height: 1300px;
+    height: 1290px;
   }
   .col6-cmn {
     height: 235px;
   }
   .aboutus-row {
     margin-top: 0 !important;
+    justify-content: center;
+  }
+  .cmn-col-6 {
+    width: 80% !important;
+  }
+  .aboutus-row p:last-of-type {
+    font-size: 1.25rem;
   }
   /*our service*/
 
