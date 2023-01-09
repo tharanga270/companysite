@@ -534,6 +534,9 @@
   /*embedded architecture content*/
 
   /*comment section*/
+  .comment-sec {
+    min-height: 430px;
+  }
   .comment-right-cont {
     left: 90px;
     margin-top: -920px;
@@ -556,6 +559,39 @@
   /*comment section*/
 
   /*full service section*/
+  .full-service-sec {
+    min-height: 1210px;
+  }
+  .full-serv-img1 {
+    left: 110px;
+    top: 252px;
+    width: 303px;
+    height: 239px;
+  }
+  .full-sev-emb1 {
+    width: 229px;
+    height: 209px;
+    top: 525px;
+    left: 215px;
+  }
+  .emb-full-serv-image2 {
+    top: 60px;
+    left: 170px;
+    width: 300px;
+    height: 212px;
+  }
+  .full-serv-cont {
+    padding: 60px 20px;
+    width: 313px;
+    top: 705px;
+    z-index: 120;
+  }
+  .full-serv-left-yellow {
+    height: 1210px;
+  }
+  .full-serv-cont h1 {
+    font-size: 1.5rem;
+  }
   /*full service section*/
 }
 
