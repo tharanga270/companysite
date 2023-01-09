@@ -635,4 +635,14 @@
     left: 65px;
   }
   /*who are the best*/
+
+  /*about company*/
+  .about-company img {
+    margin-top: 65px;
+    left: 6%;
+  }
+  .cmn-company-content {
+    padding-left: 30px;
+  }
+  /*about company*/
 }
