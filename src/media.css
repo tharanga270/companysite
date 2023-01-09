@@ -645,4 +645,23 @@
     padding-left: 30px;
   }
   /*about company*/
+
+  /*embedded architecture content*/
+  .embed-image2 {
+    top: 70px;
+    left: 90px;
+  }
+  .embed-image1 {
+    top: 215px;
+    left: 33px;
+  }
+  .embed-image3 {
+    left: 35px;
+  }
+  .embed-text-cont {
+    padding: 20px;
+    width: 79%;
+    left: 25px;
+  }
+  /*embedded architecture content*/
 }
